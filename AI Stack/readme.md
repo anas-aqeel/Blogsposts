@@ -100,7 +100,7 @@ In the past year, a common mistake many made was prioritizing blockchain technol
 
 <br>
 
-<img src="https://www.gartner.com/ngw/globalassets/en/articles/images/hype-cycle-for-emerging-tech-2022.png" alt="Gartner Hype Cycle"/>
+<img src="hype-cycle.png" alt="Gartner Hype Cycle"/>
 
 <br>
 
@@ -132,5 +132,3 @@ On the other hand, AI, particularly generative AI driven by LLMs, has surged ahe
 * **Understand Open Source vs. Closed Source:** Open-source LLMs offer greater control but require more expertise. Closed-source AI services, like OpenAI APIs, are easier to use but have limitations. Choose the approach that best suits your project and skill level.
 
 By grasping the fundamental concepts, mastering the tools, and completing hands-on projects, you'll be well-prepared to enter the exciting world of AI development.  This course is a stepping stone to building AI applications that can impact the real world.  
-
-
